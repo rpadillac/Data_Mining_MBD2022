@@ -15,3 +15,4 @@ https://mybinder.org/v2/gh/rpadillac/Data_Mining_MBD2022/23380fd379713785568eb09
 
 p final
 https://mybinder.org/v2/gh/rpadillac/Data_Mining_MBD2022/23380fd379713785568eb09dab103a7d30b2eaba?urlpath=lab%2Ftree%2FFinalProyect_MidTerm%20(5).ipynb
+https://mybinder.org/v2/gh/rpadillac/Data_Mining_MBD2022/23380fd379713785568eb09dab103a7d30b2eaba?urlpath=lab%2Ftree%2FFinalProyect_MidTerm.ipynb
